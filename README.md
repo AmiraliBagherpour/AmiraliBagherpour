@@ -1,128 +1,156 @@
-# Hi, I'm Amirali Bagherpour 👋
+<p align="center">
+  <a href="https://github.com/AmiraliBagherpour">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=38D9D6&fontSize=54&height=90&width=650&text=Hi!%20I'm%20Amirali" alt="Hi! I'm Amirali" />
+  </a>
+</p>
 
-**Computer Engineering Student focused on Artificial Intelligence and Machine Learning.**
-
-I'm a Computer Engineering student at **Shahid Beheshti University**, currently building my foundation in Artificial Intelligence, Machine Learning, and Data Analysis.
-
-I enjoy learning by building projects and exploring how software engineering, data, and machine learning come together to solve real-world problems.
-
----
-
-## 🎯 Current Focus
-
-* 🤖 Machine Learning with Python and Scikit-learn
-* 📊 Data Analysis and Visualization
-* 🐍 Python for AI and Data Science
-* 🧠 Building practical AI projects
-* 🔬 Exploring the foundations of AI and future research opportunities
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=900&height=44&lines=Artificial+Intelligence+%26+Machine+Learning;Data+Analysis+%26+Python;Building+Projects+and+Learning+by+Doing" alt="Typing headlines" />
+</p>
 
 ---
 
-## 🛠️ Technologies & Tools
+### 👨‍💻 About Me
 
-### Languages
+I'm a **Computer Engineering student at Shahid Beheshti University**, currently focused on **Artificial Intelligence, Machine Learning, and Data Analysis**.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+I enjoy learning through practical projects and exploring how **software engineering, data, and machine learning** come together to solve real-world problems.
 
-### AI & Data
+🔭  Currently working on **building my foundation in Artificial Intelligence and Machine Learning**
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat\&logo=matplotlib\&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)
+🌱  Currently learning **Machine Learning with Python and Scikit-learn**
 
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat\&logo=jupyter\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat\&logo=pycharm\&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat\&logo=intellij-idea\&logoColor=white)
+🎯  Goal: **Building practical AI projects and gradually moving toward advanced Machine Learning and AI Engineering**
 
 ---
 
-## 🚀 Featured Projects
+### 🛠️ Tech Stack
 
-### 💬 Java Web Chat Application
+#### 💻 Languages
 
-A full-stack web-based chat application built with Java SE, featuring custom REST API and WebSocket communication.
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+</p>
 
-**Highlights:**
+#### 🤖 AI & Data
 
-* REST API
-* WebSocket-based real-time messaging
-* Multithreading and concurrent request handling
-* Authentication and user management
-* Private and group messaging
-* Custom file-based persistence
-* Layered application architecture
-* Browser-based frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+</p>
 
-🔗 [View Project](https://github.com/AmiraliBagherpour/Java-Web-Chat-Application)
+#### 🧰 Tools & Development
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>
+
+#### 🗄️ Databases
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
 
 ---
 
-### 🔌 Telegram ProxySender Bot
+### 🚀 Featured Projects
 
-A Python Telegram bot that automatically discovers, tests, and serves active MTProto/SOCKS5 proxies.
+#### 💬 Java Web Chat Application
 
-**Highlights:**
+<span style="color:#0891b2">A full-stack web-based chat application built entirely with Java SE, featuring a custom REST API, WebSocket communication, authentication, private and group messaging, and a browser-based frontend.</span>
 
-* Public Telegram channel scraping
-* Proxy extraction and filtering
-* Parallel latency testing
-* SQLite persistence
-* Background proxy health checking
-* Inline-button based Telegram interface
+**Tech:** `Java` `REST API` `WebSocket` `Multithreading` `HTML` `CSS` `JavaScript`
 
-🔗 [View Project](https://github.com/AmiraliBagherpour/Telegram_ProxySender_Bot)
+🔗 **[View Repository](https://github.com/AmiraliBagherpour/Java-Web-Chat-Application)**
 
 ---
 
-## 📚 Currently Learning
+#### 🔌 Telegram ProxySender Bot
+
+<span style="color:#0891b2">A Python Telegram bot that automatically discovers, tests, and serves active MTProto/SOCKS5 proxies through an inline-button interface, using SQLite for local persistence and parallel proxy health checking.</span>
+
+**Tech:** `Python` `Telegram Bot API` `SQLite` `ThreadPoolExecutor` `Web Scraping`
+
+🔗 **[View Repository](https://github.com/AmiraliBagherpour/Telegram_ProxySender_Bot)**
+
+---
+
+<span style="color:#0891b2">🚧 More AI & Machine Learning projects are coming soon.</span>
+
+
+
+---
+
+### 📚 Learning & Growth
 
 ```text
-Machine Learning
-├── Linear Regression
-├── Classification
-├── Model Evaluation
-├── Feature Engineering
-└── Scikit-learn
-
-Data Analysis
-├── NumPy
-├── Pandas
-└── Matplotlib
+Artificial Intelligence
+        │
+        ├── Machine Learning
+        │     ├── Regression
+        │     ├── Classification
+        │     ├── Model Evaluation
+        │     └── Scikit-learn
+        │
+        ├── Data Analysis
+        │     ├── NumPy
+        │     ├── Pandas
+        │     └── Matplotlib
+        │
+        └── Future
+              ├── Deep Learning
+              ├── AI Engineering
+              └── Research
 ```
 
-My goal is to gradually move from fundamental machine learning concepts toward more advanced AI and machine learning projects.
+I'm continuously building projects to strengthen my programming, data analysis, and machine learning skills.
 
 ---
 
-## 🌱 What's Next
+### 📊 GitHub Stats
 
-Over the coming months, I'm focusing on:
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=AmiraliBagherpour&show_icons=true&theme=tokyonight&title_color=FFFFFF&icon_color=FFF700&hide_border=true&bg_color=00000000&count_private=true" alt="Amirali's GitHub Stats" /><img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=AmiraliBagherpour&layout=compact&theme=tokyonight&title_color=FFFFFF&icon_color=6EB3F0&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" />
+</p>
 
-* Building my first substantial Machine Learning project
-* Strengthening my understanding of ML fundamentals
-* Working with real-world datasets
-* Exploring Deep Learning
-* Learning how to build practical AI systems
-* Exploring research opportunities in AI
 
 ---
 
-## 📫 Connect With Me
+🐍 Contribution Graph
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/amirali-bagherpour-92b353437/)
-* 📧 [Email](mailto:amiralibagherpour1386@gmail.com)
-* 💬 [Telegram](https://t.me/In0Shish1)
+<p align="center"> <img src="https://raw.githubusercontent.com/AmiraliBagherpour/AmiraliBagherpour/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" /> </p>
 
 ---
 
-> **Learning, building, and gradually turning ideas into intelligent systems.**
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/amirali-bagherpour-92b353437/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:amiralibagherpour1386@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <a href="https://t.me/In0Shish1">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building, learning, and exploring AI — one project at a time.</i>
+</p>
